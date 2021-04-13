@@ -1,1 +1,0 @@
-# Regula-Falsi_GUI
