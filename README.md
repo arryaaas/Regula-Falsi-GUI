@@ -5,8 +5,8 @@ Regula Falsi GUI adalah aplikasi desktop untuk menghitung metode regula falsi. A
 ## Pratinjau Aplikasi
 
 <p>
-<img width="400px" src="https://github.com/arryaaas/Regula-Falsi-GUI/blob/main/image-1.png"/>
-<img width="400px" src="https://github.com/arryaaas/Regula-Falsi-GUI/blob/main/image-2.png"/>
+<img width="400px" src="https://github.com/arryaaas/Regula-Falsi-GUI/blob/main/image/image-1.png"/>
+<img width="400px" src="https://github.com/arryaaas/Regula-Falsi-GUI/blob/main/image/image-2.png"/>
 </p>
 
 ## Libraries
